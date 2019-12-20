@@ -1,0 +1,11 @@
+C:\SIT\Homework\strings-arrays-CristianCovaliu\Tema2\Tema2\obj\Debug\netcoreapp3.0\Tema2.csprojAssemblyReference.cache
+C:\SIT\Homework\strings-arrays-CristianCovaliu\Tema2\Tema2\obj\Debug\netcoreapp3.0\Tema2.AssemblyInfoInputs.cache
+C:\SIT\Homework\strings-arrays-CristianCovaliu\Tema2\Tema2\obj\Debug\netcoreapp3.0\Tema2.AssemblyInfo.cs
+C:\SIT\Homework\strings-arrays-CristianCovaliu\Tema2\Tema2\bin\Debug\netcoreapp3.0\Tema2.exe
+C:\SIT\Homework\strings-arrays-CristianCovaliu\Tema2\Tema2\bin\Debug\netcoreapp3.0\Tema2.deps.json
+C:\SIT\Homework\strings-arrays-CristianCovaliu\Tema2\Tema2\bin\Debug\netcoreapp3.0\Tema2.runtimeconfig.json
+C:\SIT\Homework\strings-arrays-CristianCovaliu\Tema2\Tema2\bin\Debug\netcoreapp3.0\Tema2.runtimeconfig.dev.json
+C:\SIT\Homework\strings-arrays-CristianCovaliu\Tema2\Tema2\bin\Debug\netcoreapp3.0\Tema2.dll
+C:\SIT\Homework\strings-arrays-CristianCovaliu\Tema2\Tema2\bin\Debug\netcoreapp3.0\Tema2.pdb
+C:\SIT\Homework\strings-arrays-CristianCovaliu\Tema2\Tema2\obj\Debug\netcoreapp3.0\Tema2.dll
+C:\SIT\Homework\strings-arrays-CristianCovaliu\Tema2\Tema2\obj\Debug\netcoreapp3.0\Tema2.pdb
